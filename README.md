@@ -1,17 +1,14 @@
-# AlGareda Mobile App 🌟
+# Newsfeed Mobile App 🌟
 
-Welcome to the AlGareda Mobile App repository! AlGareda is a basic Mobile App that illustrates how we make apps at [Eng Techno](https://engtechnos.com/).
-
+### About the App 📱
+Newsfeed Mobile App is a cutting-edge news platform that brings you the latest stories, updates, and insights from around the globe. Tailored for the modern reader, Newsfeed offers a personalized news experience, allowing you to stay informed anytime, anywhere.
 
 
 Home | Settings | Single Article
 --- | --- | ---
-![Home-Light](https://github.com/engtechno/AlGareda-Mobile-App/blob/main/screenshots/Home-Light.png?raw=true)  | ![Settings-Light](https://github.com/engtechno/AlGareda-Mobile-App/blob/main/screenshots/Settings-Light.png?raw=true) | ![Single-Light](https://github.com/engtechno/AlGareda-Mobile-App/blob/main/screenshots/Single-Light.png?raw=true)
-![Home-Dark](https://github.com/engtechno/AlGareda-Mobile-App/blob/main/screenshots/Home-Dark.png?raw=true)  | ![Settings-Dark](https://github.com/engtechno/AlGareda-Mobile-App/blob/main/screenshots/Settings-Dark.png?raw=true) | ![Single-Dark](https://github.com/engtechno/AlGareda-Mobile-App/blob/main/screenshots/Single-Dark.png?raw=true)
+![Home-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Home-Light.png?raw=true)  | ![Settings-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Settings-Light.png?raw=true) | ![Single-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Single-Light.png?raw=true)
+![Home-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Home-Dark.png?raw=true)  | ![Settings-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Settings-Dark.png?raw=true) | ![Single-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Single-Dark.png?raw=true)
 
-## About the App 📱
-
-AlGareda Mobile App is a cutting-edge news platform that brings you the latest stories, updates, and insights from around the globe. Tailored for the modern reader, AlGareda offers a personalized news experience, allowing you to stay informed anytime, anywhere.
 
 ## Built With 🛠️
 
@@ -29,22 +26,22 @@ This app is developed using React Native, a popular framework for building nativ
 
 ## API Integration 🌐
 
-We used the [NewsAPI](https://newsapi.org/) to fetch the latest news articles and headlines from around the world. The API provides a wide range of news sources and articles, making it a perfect fit for AlGareda.
+We used the [NewsAPI](https://newsapi.org/) to fetch the latest news articles and headlines from around the world. The API provides a wide range of news sources and articles, making it a perfect fit for Newsfeed.
 
 ## Getting Started 🚀
 
-Follow these simple steps to get AlGareda Mobile App running on your local machine:
+Follow these simple steps to get Newsfeed Mobile App running on your local machine:
 
 1. **Clone the Repository:**
 
 ```sh
-git clone https://github.com/engtechno/AlGareda-Mobile-App.git
+git clone https://github.com/ammarbasuony/react-native-newsfeed-app.git
 ```
 
 2. **Navigate to the Project Directory:**
 
 ```sh
-cd AlGareda-Mobile-App
+cd Newsfeed-Mobile-App
 ```
 
 3. **Install Dependencies:**
@@ -78,12 +75,12 @@ In the project directory, you can run:
 
 ## Contributing 🤝
 
-We warmly welcome contributions to the AlGareda Mobile App! Whether it's submitting bugs, requesting features, or contributing code, your input is invaluable in making AlGareda better for everyone.
+We warmly welcome contributions to the Newsfeed Mobile App! Whether it's submitting bugs, requesting features, or contributing code, your input is invaluable in making Newsfeed better for everyone.
 
 ## License 📄
 
-AlGareda Mobile App is open source and available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+Newsfeed Mobile App is open source and available under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 ---
 
-Dive into the AlGareda experience and redefine how you consume news. Stay informed, stay ahead! 🌍✨
+Dive into the Newsfeed experience and redefine how you consume news. Stay informed, stay ahead! 🌍✨
