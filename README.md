@@ -6,8 +6,8 @@ Newsfeed Mobile App is a cutting-edge news platform that brings you the latest s
 
 Home | Settings | Single Article
 --- | --- | ---
-![Home-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Home-Light.png?raw=true)  | ![Settings-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Settings-Light.png?raw=true) | ![Single-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Single-Light.png?raw=true)
-![Home-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Home-Dark.png?raw=true)  | ![Settings-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Settings-Dark.png?raw=true) | ![Single-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/main/screenshots/Single-Dark.png?raw=true)
+![Home-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/master/screenshots/Home-Light.png?raw=true)  | ![Settings-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/master/screenshots/Settings-Light.png?raw=true) | ![Single-Light](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/master/screenshots/Single-Light.png?raw=true)
+![Home-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/master/screenshots/Home-Dark.png?raw=true)  | ![Settings-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/master/screenshots/Settings-Dark.png?raw=true) | ![Single-Dark](https://github.com/ammarbasuony/react-native-newsfeed-app/blob/master/screenshots/Single-Dark.png?raw=true)
 
 
 ## Built With 🛠️
